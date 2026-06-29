@@ -9,7 +9,7 @@ A Morphe patch source for TikTok.
 ## Patches
 
 <!-- PATCHES_START -->
-> **[v1.0.0-dev.1](https://github.com/lyyako/altera-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v1.0.0](https://github.com/lyyako/altera-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
 <details open>
 <summary>📦 TikTok&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
