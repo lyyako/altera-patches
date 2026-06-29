@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altera_settings_category_title">Patch settings</string>
+    <string name="altera_settings_information_title">Information</string>
+    <string name="altera_settings_source_code_title">Altera patches source code</string>
+    <string name="altera_settings_source_code_summary">Opens the project repository on GitHub.</string>
+    <string name="altera_settings_miscellaneous_title">Other</string>
+</resources>
