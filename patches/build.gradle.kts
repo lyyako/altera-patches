@@ -1,11 +1,11 @@
-group = "app.template"
+group = "app.altera"
 
 patches {
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Altera Patches"
+        description = "Patches for TikTok"
+        source = "git@github.com:lyyako/altera-patches.git"
+        author = "lyyako"
         contact = "na"
         website = "na"
         license = "GPLv3"

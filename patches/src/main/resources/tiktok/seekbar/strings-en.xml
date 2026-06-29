@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altera_settings_show_seekbar_title">Show seekbar</string>
+    <string name="altera_settings_show_seekbar_summary">Shows the native seekbar on videos where TikTok would normally hide it.</string>
+</resources>

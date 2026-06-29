@@ -12,6 +12,9 @@ env:
 jobs:
   pull-request:
     name: Open pull request
+    permissions:
+      contents: read
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,6 +23,7 @@ jobs:
       - name: Open pull request
         uses: repo-sync/pull-request@v2
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           destination_branch: 'main'
           pr_title: 'chore: ${{ env.MESSAGE }}'
           pr_body: 'This pull request will ${{ env.MESSAGE }}.'
